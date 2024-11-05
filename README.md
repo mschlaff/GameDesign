@@ -5,3 +5,9 @@ Welcome to Paddle Home Before Dark, a thrilling 3rd person kayaking adventure ga
 You must get home safely before darkness comes! Watch out for obstacles like rocks and the edges of the river, as they will bump you and slow you down. Take care to steer away from the sharks, as they will bite if you get too close!
 
 Play the game a few times to find the best path home. Each path is different and offers unique challenges on your adventure.
+
+Game Trailer: 
+<a href="https://youtu.be/KXXEhFfRgL0">https://youtu.be/KXXEhFfRgL0</a>
+
+Gameplay Video:
+<a href="https://youtu.be/UM6JLobRFmw?si=891iAJ1mj8B-HQgs">https://youtu.be/UM6JLobRFmw?si=891iAJ1mj8B-HQgs</a>
